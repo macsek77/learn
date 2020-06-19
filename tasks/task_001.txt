@@ -1,0 +1,1 @@
+Írj programot mely kiírja az első 20 egész számot és négyzetüket!
